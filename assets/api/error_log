@@ -1,0 +1,276 @@
+[31-Aug-2022 11:40:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:40:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:41:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:41:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:41:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:41:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:41:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:45:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:45:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:45:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:45:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:46:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:46:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:46:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:46:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:46:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:47:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:47:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:47:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:47:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 11:47:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[31-Aug-2022 13:03:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:21:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:21:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:21:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:22:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:22:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:25:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:31:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:34:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:35:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:36:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:44:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:46:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:46:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:46:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:46:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:46:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:46:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:54:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:56:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:56:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:56:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:56:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:56:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:57:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:57:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:58:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 20:58:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 21:05:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 21:11:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 21:11:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 21:11:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 21:13:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 21:13:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 22:32:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 22:32:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 22:32:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[02-Sep-2022 22:32:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[03-Sep-2022 14:11:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[03-Sep-2022 14:11:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[03-Sep-2022 14:11:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[03-Sep-2022 14:11:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[03-Sep-2022 14:11:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[03-Sep-2022 14:12:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[03-Sep-2022 14:12:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[03-Sep-2022 14:12:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[03-Sep-2022 14:12:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32
+[03-Sep-2022 14:12:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/sieuthic/api.sieuthicode.net/assets/api/HistoryThesieure.php on line 32

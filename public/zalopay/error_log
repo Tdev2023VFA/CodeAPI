@@ -1,0 +1,20 @@
+[07-Jun-2022 15:56:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 299
+[07-Jun-2022 15:56:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "msg" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 302
+[07-Jun-2022 16:08:15 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 299
+[07-Jun-2022 16:08:15 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "msg" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 302
+[07-Jun-2022 16:08:46 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 299
+[07-Jun-2022 16:08:46 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "msg" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 302
+[07-Jun-2022 17:37:30 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 299
+[07-Jun-2022 17:37:30 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "msg" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 302
+[08-Jun-2022 02:35:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 299
+[08-Jun-2022 02:35:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "msg" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 302
+[08-Jun-2022 02:36:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 299
+[08-Jun-2022 02:36:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "msg" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 302
+[08-Jun-2022 13:31:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 299
+[08-Jun-2022 13:31:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "msg" in /home/sieuthic/api.sieuthicode.net/config/function.php on line 302
+[21-Jun-2022 14:04:56 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/sieuthic/api.sieuthicode.net/config/function.php on line 299
+[21-Jun-2022 14:04:56 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/sieuthic/api.sieuthicode.net/config/function.php on line 302
+[21-Jun-2022 14:04:59 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/sieuthic/api.sieuthicode.net/config/function.php on line 299
+[21-Jun-2022 14:04:59 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/sieuthic/api.sieuthicode.net/config/function.php on line 302
+[05-Aug-2022 15:14:22 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/meoamion/api.sieuthicode.net/config/function.php on line 334
+[05-Aug-2022 15:14:22 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/meoamion/api.sieuthicode.net/config/function.php on line 337
